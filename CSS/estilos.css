@@ -12,3 +12,13 @@ body{
     border: 1em solid gray;
 }
 
+#cabezera {
+    background-color: darkgoldenrod;
+    border-radius: 15%;
+    color: whitesmoke;
+    margin: 0%;
+    padding: 1em;
+    text-align: left;
+    
+}
+
