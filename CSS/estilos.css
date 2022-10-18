@@ -1,5 +1,14 @@
 body{
-    text-align: center;
+    text-align: right;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+    color: greenyellow;
 }
+
+#container {
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
